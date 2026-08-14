@@ -73,8 +73,8 @@ body {
 }
 
 .tab-btn.active {
-    background: #146485;
-    color: #acdaed;
+    background: #acdaed;
+    color: #ffffff;
 }
 
 /* ===========================
@@ -90,11 +90,11 @@ body {
 
 h1 {
     text-align: center;
-    font-size: 34px;
+    font-size: 29px;
     line-height: 1.15;
-    font-weight: 900;
+    font-weight: 700;
     color: #2593c0;
-    margin: 0 0 38px;
+    margin: 18px 0 30px;
 }
 
 .capture-id-bottom {
@@ -168,8 +168,8 @@ table {
 }
 
 th {
-    background: #146485;
-    color: #acdaed;
+    background: #acdaed;
+    color: #ffffff;
     height: 68px;
     font-size: 23px;
     font-weight: 800;
@@ -186,7 +186,7 @@ th:first-child {
 }
 
 .clickable-header:hover {
-    background: #0f4962;
+    background: #8cc5df;
 }
 
 td {
@@ -342,7 +342,7 @@ td:hover {
 }
 
 .lr-cell.filled {
-    background: #146485;
+    background: #acdaed;
 }
 
 .lr-text-wrap {
@@ -421,12 +421,12 @@ button:hover {
 }
 
 #saveBtn {
-    background: #146485;
-    color: #acdaed;
+    background: #acdaed;
+    color: #ffffff;
 }
 
 #saveBtn:hover {
-    background: #0f4962;
+    background: #8cc5df;
 }
 
 #resetBtn {
@@ -749,8 +749,9 @@ button:hover {
     }
 
     h1 {
-        font-size: 19px;
-        margin: 0 0 14px;
+        font-size: 16px;
+        font-weight: 700;
+        margin: 10px 0 12px;
     }
 
     .chart-date {
